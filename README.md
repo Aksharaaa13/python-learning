@@ -1,17 +1,26 @@
-# Python Learning Journey
+Python Learning Journey
 
-Summer 2026
+University: Mahindra University
+Branch: ECE
 
-## Progress
+Topics Covered:
+- Variables
+- Input/Output
+- Data Types
+- Operators
+- If-Else
+- Elif
+- And / Or
+- For Loops
+- While Loops
+- Multiplication Table
+- Sum of N Numbers
 
-- [x] Day 1 - Variables, Input and Output
-- [ ] Day 2 - Numbers and Operators
-- [ ] Day 3 - If Else
-- [ ] Day 4 - Conditions
-- [ ] Day 5 - Loops
-- [ ] Day 6 - Functions
-- [ ] Day 7 - Mini Project
+Learning Period:
+Summer Break 2025
 
-## Goal
-
-Learn Python, GitHub, and build projects during summer break.
+Next Topics:
+- Pattern Printing
+- Factorial
+- Prime Numbers
+- Functions
