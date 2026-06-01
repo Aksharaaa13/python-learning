@@ -17,7 +17,7 @@ Topics Covered:
 - Sum of N Numbers
 
 Learning Period:
-Summer Break 2025
+Summer Break 2026
 
 Next Topics:
 - Pattern Printing
